@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    color: white;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+nav{
+    margin-left: 0px;
+    
+    padding-left: 0px;
+    padding: 0px;
+    
+    
+    
+}
+nav a svg {
+    display:inline-block ;
+    color: white;
+    padding-left: 0px;
+}
+nav a h1{
+    display: inline-block;
+    margin-left: 1px;
+    color: white;
+    
+    }
+    body{
+        background-color: white;
+        margin: auto;
+        
+    }
+
+.sidebar{
+    padding-top: 20px;
+    
+   float: left; 
+    margin: auto;
+    margin-top: 0px;
+    line-height: 20px;
+background-color: lightgray;
+    color: white;
+    width: 300px;
+    height: 570px;
+    margin-bottom: 0px;
+    
+}
+
+div a{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    
+    
+    
+}
+h1{
+    
+    color: black;
+    margin-left: 20px;
+}
+form input{
+    position:relative;
+    text-align: left;
+    margin-left: 20px;
+    height: 40px;
+    width: 230px;
+}
+button{
+    margin-top: 0px;
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+}
+    
